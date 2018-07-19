@@ -2,7 +2,7 @@
   <Id>0</Id>
   <Name>All OPCHAINs</Name>
   <Description>This is the base OPCHAIN that encompasses all known OPCHAINs to date of the publication of current version.</Description>
-  <URL>http://operations.korrino.com</URL>
+  <URL>http://opchains.korrino.com</URL>
   <Model>
     <OpchainList>
       <OPCHAIN>
